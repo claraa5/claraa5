@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Victor Gabriel Marques</h1>
 
-<!--
-**claraa5/claraa5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 About Me
+- 🌐 **Topics:** Web Development, TypeScript, AI, Python, JS, Automation, Data Science, among others  
+- 💻 **Computer Networking Technician** from [Instituto Federal de São Paulo](https://www.ifsp.edu.br)  
+- 🎓 **Software Engineering undergraduate** at [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br)  
+- 🧠 **Full Stack Developer**  
+- 👨‍💻 **Director of Web Development** at [InAI](https://inai.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  
+  ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorGM01&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGM01&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000)
+  
+</div>
+
+---
+
+### 🧠 **Victor Gabriel Marques' GitHub Summary**
+
+| Metric | Value |
+|--------|--------|
+| ⭐ Total Stars Earned | 47 |
+| 🧩 Total Commits | 2.4k |
+| 🔧 Total PRs | 135 |
+| 🐞 Total Issues | 13 |
+| 🕒 Contributed to (last year) | 1 |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGM01&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Most Used Languages"/>
+</p>
+
+---
+
+### 🌍 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/victorgm01"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:victorgm01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
