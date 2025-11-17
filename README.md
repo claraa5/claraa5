@@ -1,34 +1,60 @@
-<h1 align="center">Hi there 👋, I'm Maria Clara </h1>
+# Olá! Eu sou a Maria Clara 👋
+
+<div align="center">
+  
+  ## 🌟 Maria Clara  
+  **Estudante de Ciência da Computação @ UDF**
+
+  ![Banner](https://via.placeholder.com/900x200/0A3D62/FFFFFF?text=Maria+Clara+-+Ciência+da+Computação+%40+UDF)
+
+</div>
 
 ---
 
-### 💡 About Me
-- 🌐 **Topics:** Web Development, TypeScript, AI, Python, JS, Automation, Data Science, among others    
-- 🧠 **Full Stack Developer**  
+## 👩‍💻 Sobre Mim
+
+Sou estudante de **Ciência da Computação** no **Centro Universitário do Distrito Federal (UDF)**. Apaixonada por tecnologia, sempre estou em busca de aprender novas linguagens e desenvolver minhas habilidades no mundo da programação e do desenvolvimento de software.
+
+- 🎓 Cursando **Ciência da Computação** na **UDF**.  
+- 💻 Interessada em: **Desenvolvimento Back-end**.  
+- 🚀 Sempre explorando novas tecnologias.  
+
+📧 **Como me encontrar:**  
+[gmariaclara436@gmail.com](mailto:gmariaclara436@gmail.com)
 
 ---
 
-### 🧠 **Maria Clara's GitHub Summary**
+## 🚀 Projetos
 
-| Metric | Value |
-|--------|--------|
-| ⭐ Total Stars Earned | 47 |
-| 🧩 Total Commits | 2.4k |
-| 🔧 Total PRs | 135 |
-| 🐞 Total Issues | 13 |
-| 🕒 Contributed to (last year) | 1 |
+Aqui estão alguns projetos que você pode conferir:
+
+- 🔗 [Projeto 1](#) — Coloque aqui a descrição do seu projeto.  
+- 🔗 [Projeto 2](#) — Outro projeto interessante que você queira mostrar.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGM01&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Most Used Languages"/>
-</p>
+## 🔧 Tecnologias que utilizo
 
+Essas são algumas tecnologias que estudo e utilizo no meu dia a dia:
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🌍 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/victorgm01"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="gmariaclara436@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+## 💬 Entre em contato comigo
+
+Sinta-se à vontade para entrar em contato por e-mail ou para conectar-se comigo por aqui no GitHub ❤️  
+📧 [gmariaclara436@gmail.com](mailto:gmariaclara436@gmail.com)
+
+---
+
+<div align="center">
+
+✨ _Obrigada pela visita!_ ✨  
+⭐ _Não esqueça de deixar uma estrela nos meus repositórios se gostar!_
+
+</div>
