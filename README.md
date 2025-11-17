@@ -11,16 +11,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariaclarashow_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariaclaralayout=compact&theme=github_dark&hide_border=true&bg_color=00000000)
-  
-</div>
-
 ---
 
 ### 🧠 **Maria Clara's GitHub Summary**
