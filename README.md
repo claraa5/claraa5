@@ -5,7 +5,8 @@
   ## 🌟 Maria Clara  
   **Estudante de Ciência da Computação @ UDF**
 
-  ![Banner](https://via.placeholder.com/900x200/0A3D62/FFFFFF?text=Maria+Clara+-+Ciência+da+Computação+%40+UDF)
+   ![banner](https://capsule-renderer.vercel.app/api?type=waving&color=003366&height=200&section=header&text=Maria%20Clara&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20@%20UDF&descAlignY=60)
+
 
 </div>
 
