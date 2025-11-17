@@ -3,13 +3,8 @@
 ---
 
 ### 💡 About Me
-- 🌐 **Topics:** Web Development, TypeScript, AI, Python, JS, Automation, Data Science, among others  
-- 💻 **Computer Networking Technician** from [Instituto Federal de São Paulo](https://www.ifsp.edu.br)  
-- 🎓 **Software Engineering undergraduate** at [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br)  
+- 🌐 **Topics:** Web Development, TypeScript, AI, Python, JS, Automation, Data Science, among others    
 - 🧠 **Full Stack Developer**  
-- 👨‍💻 **Director of Web Development** at [InAI](https://inai.com)  
-
----
 
 ---
 
