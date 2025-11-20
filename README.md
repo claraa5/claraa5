@@ -25,15 +25,6 @@ Sou estudante de **Ciência da Computação** no **Centro Universitário do Dist
 
 ---
 
-## 🚀 Projetos
-
-Aqui estão alguns projetos que você pode conferir:
-
-- 🔗 [Projeto 1](#) — Coloque aqui a descrição do seu projeto.  
-- 🔗 [Projeto 2](#) — Outro projeto interessante que você queira mostrar.
-
----
-
 ## 🔧 Tecnologias que utilizo
 
 Essas são algumas tecnologias que estudo e utilizo no meu dia a dia:
