@@ -5,7 +5,7 @@
   ## 🌟 Maria Clara  
   **Estudante de Ciência da Computação @ UDF**
 
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Maria%20Clara&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Maria%20Clara)
 </div>
 
 ---
