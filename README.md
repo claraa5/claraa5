@@ -19,7 +19,7 @@ Sou estudante de **Ciência da Computação** no **Centro Universitário do Dist
 - 🚀 Sempre explorando novas tecnologias.  
 
 📧 **Como me encontrar:**  
-[gmariaclara436@gmail.com](mailto:gmariaclara436@gmail.com)
+[claraasouza436@gmail.com](mailto:claraasouza436@gmail.com)
 
 ---
 
@@ -38,7 +38,7 @@ Essas são algumas tecnologias que estudo e utilizo no meu dia a dia:
 ## 💬 Entre em contato comigo
 
 Sinta-se à vontade para entrar em contato por e-mail ou para conectar-se comigo por aqui no GitHub ❤️  
-📧 [gmariaclara436@gmail.com](mailto:gmariaclara436@gmail.com)
+📧 [claraasouza436@gmail.com](mailto:claraasouza436@gmail.com)
 
 ---
 
